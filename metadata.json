@@ -1,0 +1,6 @@
+{
+  "name": "Hoài Vũ & Hải Yến - Love Days & Memory Keepsake",
+  "description": "Trang lưu trữ đếm ngày yêu đẹp lung linh và nhật ký kỷ niệm tình yêu của Hoài Vũ & Hải Yến bắt đầu từ 13/09/2026 có nhạc lãng mạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
